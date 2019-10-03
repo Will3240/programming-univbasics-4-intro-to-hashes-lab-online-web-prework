@@ -34,10 +34,10 @@ def read_from_hash(hash, key)
 end
 
 def update_counting_hash(hash, key)
-  hash[key]=1
+ if (condition)
+ hash[key]=1
  return hash
  hash.key(1)
- if()
     hash{key] = 1
  end
  
