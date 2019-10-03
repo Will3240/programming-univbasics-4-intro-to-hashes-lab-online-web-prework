@@ -38,6 +38,6 @@ def update_counting_hash(hash, key)
  return hash
  hash.key(1)
  if(1)
-   hash(key)
+   hash{key]
  end
  
