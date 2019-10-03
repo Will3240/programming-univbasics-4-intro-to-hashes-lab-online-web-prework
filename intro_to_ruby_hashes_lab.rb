@@ -30,8 +30,7 @@ hash
 end
 
 def read_from_hash(hash, key)
- 
- {"hash"=>0}
+ expect(hash,key)
 end
 
 def update_counting_hash(hash, key)
